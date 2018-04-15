@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yminhua.github.io/"/>
-  <updated>2018-04-15T14:30:19.993Z</updated>
+  <updated>2018-04-15T15:45:46.994Z</updated>
   <id>https://yminhua.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试图片粘贴</title>
+    <link href="https://yminhua.github.io/2018/04/15/Untitled/"/>
+    <id>https://yminhua.github.io/2018/04/15/Untitled/</id>
+    <published>2018-04-15T15:41:00.000Z</published>
+    <updated>2018-04-15T15:45:46.994Z</updated>
+    
+    <content type="html"><![CDATA[<p>dddd<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://p78gglxg2.bkt.clouddn.com/15238071264123wmy9mt3.png?imageslim" alt="paste image" title="">                </div>                <div class="image-caption">paste image</div>            </figure></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;dddd&lt;br&gt;&lt;figure class=&quot;image-bubble&quot;&gt;
+                &lt;div class=&quot;img-lightbox&quot;&gt;
+                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
